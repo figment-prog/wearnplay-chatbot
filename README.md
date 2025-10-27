@@ -29,5 +29,5 @@ It acts as a customer service assistant for the T-shirt and hoodie brand "wearnp
     * **Important:** Make sure your Ollama application is running and you have pulled the `gemma3:1b` model (`ollama pull gemma3:1b`).
     * Run the Streamlit app:
         ```bash
-        streamlit run streamlit_app.py
+        streamlit run chatbot.py
         ```
