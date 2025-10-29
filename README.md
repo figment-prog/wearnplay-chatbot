@@ -13,6 +13,10 @@ It acts as a customer service assistant for the T-shirt and hoodie brand "wearnp
 ## How to Run This Project
 
 **Warning:** This project does not use a virtual environment and will install packages globally.
+             You will need to install Ollama and pull the gemma3:1b model.
+             ```bash
+             ollama pull gemma3:1b
+             ```
 
 1.  **Clone the Repository:**
     ```bash
